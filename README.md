@@ -1,17 +1,17 @@
-# MBAI 5310G-AI-Programming-SajeelaLuqman
-## Course
-MBAI 5310G – AI Programming | Ontario Tech University
-
-## About this repository
-This repository contains weekly coding assignments and the final
-AI programming project for MBAI 5310G. It will be updated
-throughout the course as new assignments are completed.
-
-## Contents
-- Weekly coding tasks (organized by week)
-- Final AI programming project
-- Any supporting datasets or notebooks/Keypoints
-
-## Note
-This repository serves as the central submission hub for all
-coursework in MBAI 5310G.
+# MBAI 5310G – AI Programming 
+GitHub Guide 
+## Student Information 
+Name: [Sajeela Luqman] 
+Course: MBAI 5310G – AI Programming 
+Term: Spring 2026 
+Instructor: Zahra Atf 
+## Repository Overview 
+This repository contains my weekly applied coding tasks and final project for MBAI 
+5310G. The work focuses on AI programming, machine learning, deep learning, NLP, model 
+evaluation, GitHub-based documentation, and responsible AI reflection. 
+## Repository Structure - assignments/: weekly applied tasks - final_project/: final project notebook, paper, outputs, and documentation - resources/: optional notes or supporting resources 
+## Tools Used - Python - Jupyter Notebook / Google Colab - GitHub - scikit-learn - TensorFlow / Keras - Other libraries as needed 
+## Responsible AI Note 
+All work in this repository is for educational purposes. I will not upload confidential, 
+private, sensitive, copyrighted, or restricted datasets. When using AI tools for 
+support, I will disclose how they were used and verify the final work. 
