@@ -15,7 +15,8 @@ NLP,
 model evaluation,
 GitHub-based documentation, 
 and responsible AI reflection. 
-## Repository Structure - assignments/: weekly applied tasks - final_project/: final project notebook, paper, outputs, and documentation - resources/: optional notes or supporting resources 
+## Repository Structure - assignments/: weekly applied tasks - final_project/: final project notebook, paper, outputs, and documentation - resources/: optional notes or supporting resources
+
 ## Tools Used
 - Python
 - Jupyter Notebook / Google Colab
