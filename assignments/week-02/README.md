@@ -1,6 +1,6 @@
 # Week 02 – Building an End-to-End ML Pipeline
 ## Task Overview
-# Build a basic machine learning pipeline and train a simple baseline model using Logistic Regression
+- Build a basic machine learning pipeline and train a simple baseline model using Logistic Regression
 #week-02/
 
 ├── README.md
@@ -48,7 +48,10 @@ I used 10 main pipeline steps:
 #How to Run or Review
 -To review the notebook, you should follow the steps below:
 
- Download two files in this folder: Assignment 2(AI prog).html: main notebook for the task
+ Download two files in this folder: 
+
+-Assignment 2(AI prog).html: main notebook for the task
+
 -finance_early_loan_repayment_prediction_dataset (2).xls
 -Make sure to upload the dataset to the software you use to review this notebook
 Run the commands from top to bottom, consequently
