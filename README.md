@@ -2,8 +2,11 @@
 GitHub Guide 
 ## Student Information 
 -Name: [Sajeela Luqman] 
--Course: MBAI 5310G – AI Programming 
--Term: Spring 2026 
+
+-Course: MBAI 5310G – AI Programming
+
+-Term: Spring 2026
+
 -Instructor: Zahra Atf 
 ## Repository Overview 
 This repository contains my weekly applied coding tasks and final project for MBAI 
