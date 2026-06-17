@@ -2,10 +2,14 @@
 ## Task Overview
 # Build a basic machine learning pipeline and train a simple baseline model using Logistic Regression
 #week-02/
-#├── README.md
-#├── week02_notebook.ipynb
-#├── report.pdf
-#└── dataset.xlsx
+
+├── README.md
+
+├── week02_notebook.ipynb
+
+├── report.pdf
+
+└── dataset.xlsx
 
 # Files in This Folder
 -Assignment 2(AI prog).html: main notebook for the task
