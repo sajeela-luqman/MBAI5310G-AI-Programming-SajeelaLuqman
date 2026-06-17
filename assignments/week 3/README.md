@@ -7,13 +7,13 @@ Train and compare two classification models (Logistic Regression and SVM - Suppo
 -finance_early_loan_repayment_prediction_dataset (2).xls: main notebook for the task
 : main dataset for the task
 # Dataset or Input Source
-The dataset that I used for this purpose was "", which contains customer and booking information such as age, room type, booking channel, lead time, total value, and loyalty status, along with a label indicating whether the booking was ultimately cancelled.
+The dataset that I used for this purpose was "finance_early_loan_repayment_prediction_dataset", which contains customer and booking information such as age, room type, booking channel, lead time, total value, and loyalty status, along with a label indicating whether the booking was ultimately cancelled.
 
 # Methods Used
 After building and training the Logistic Regression model (similar to week 02), I continued the same steps for the SVM model. Then, compare the results of both models to find the better model.
 
 # Key Results
-After comparing Logistic Regression and SVM on the hotel booking cancellation dataset, the Logistic Regression model generally performs better, achieving higher accuracy, precision, and f1-score for the cancellation class.
+After comparing Logistic Regression and SVM on the finance_early_loan_repayment_prediction_dataset, the Logistic Regression model generally performs better, achieving higher accuracy, precision, and f1-score for the cancellation class.
 
 # Limitation
 The dataset is small, so it may not generalise well to real-world customer data
@@ -21,7 +21,9 @@ The dataset is small, so it may not generalise well to real-world customer data
 # How to Run or Review
 To review the notebook, you should follow the steps below:
 
-Download two files in this folder: Assignment 3(AI).html 
+Download two files in this folder: 
+-Assignment 3(AI).html 
+
 -finance_early_loan_repayment_prediction_dataset (2).xls
 Make sure to upload the dataset to the software you use to review this notebook
 Run the commands from top to bottom, consequently
