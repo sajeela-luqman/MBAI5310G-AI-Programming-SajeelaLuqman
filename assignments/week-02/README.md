@@ -16,9 +16,9 @@ week-02/
 # Methods Used
 I used 10 main pipeline steps:
 -Load the dataset
-- Inspect the dataset
- -Understand the business problem, machine learning problem, and prediction goal
- -Clean the data
+-Inspect the dataset
+-Understand the business problem, machine learning problem, and prediction goal
+-Clean the data
 -Define features (X) and target (y)
 -Split the dataset into training and testing
 -Preprocessing
