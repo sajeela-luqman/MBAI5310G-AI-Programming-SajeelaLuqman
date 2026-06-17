@@ -19,15 +19,25 @@
 
 # Methods Used
 I used 10 main pipeline steps:
+
 -Load the dataset
+
 -Inspect the dataset
+
 -Understand the business problem, machine learning problem, and prediction goal
+
 -Clean the data
+
 -Define features (X) and target (y)
+
 -Split the dataset into training and testing
+
 -Preprocessing
+
 -Build a baseline model
+
 -Evaluate the model
+
 -Interpret the result
 ## Key Results
 -The Logistic Regression model achieved an accuracy of approximately 73%.
