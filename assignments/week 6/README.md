@@ -1,6 +1,6 @@
 ## Week 06– Model Evaluation, Explainability, and Fairness Reflection
 # Task Overview
-Train the data, clean the data, and apply SHAP and LIME.   
+Train the data, clean the data, and apply model evaluation, explanation, and fairness by using SHAP and LIME.   
 
 # Files in This Folder
 bank_product_subscription_dataset.csv main notebook for the task
