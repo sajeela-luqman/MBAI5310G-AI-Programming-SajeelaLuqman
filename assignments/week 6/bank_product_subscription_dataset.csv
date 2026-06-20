@@ -1,0 +1,391 @@
+client_id,age,age_group,gender,region,marital_status,education_level,employment_status,account_balance,credit_score,number_of_bank_products,contacts_during_campaign,days_since_last_contact,previous_campaign_success,preferred_contact_method,subscribed
+B0001,59,51+,Male,South,Married,Bachelor,Full-time,39626,628,1,9,299,Yes,Email,0
+B0002,35,26-35,Female,North,Divorced,College,Self-employed,22609,684,4,5,157,Yes,Phone,0
+B0003,70,51+,Male,East,Married,College,Full-time,40068,659,4,6,316,Yes,Phone,0
+B0004,60,51+,Male,South,Single,Master,Retired,56856,718,4,6,247,No,SMS,0
+B0005,36,36-50,Male,North,Single,College,Full-time,20011,610,5,3,355,Yes,Phone,1
+B0006,25,18-25,Male,East,Single,High School,Full-time,12664,606,2,8,28,No,Phone,0
+B0007,59,51+,Female,East,Divorced,High School,Student,51471,721,3,8,326,Yes,SMS,0
+B0008,24,18-25,Female,West,Divorced,Bachelor,Self-employed,54357,756,2,5,28,Yes,SMS,0
+B0009,19,18-25,Female,South,Married,Bachelor,Full-time,20536,723,1,8,201,Yes,Phone,0
+B0010,54,51+,Male,East,Single,Bachelor,Part-time,46449,652,1,3,245,Yes,SMS,0
+B0011,54,51+,Female,West,Divorced,Master,Student,69993,646,4,7,2,Yes,Phone,1
+B0012,68,51+,Male,South,Divorced,Bachelor,Part-time,46041,764,1,5,280,Yes,SMS,0
+B0013,38,36-50,Male,East,Single,Master,Full-time,8893,502,1,8,231,Yes,Email,0
+B0014,48,36-50,Male,North,Divorced,High School,Full-time,34321,713,2,8,251,No,Phone,0
+B0015,39,36-50,Female,East,Single,College,Student,36635,656,2,6,283,Yes,Phone,0
+B0016,45,36-50,Female,North,Single,College,Part-time,32889,661,5,9,190,Yes,Phone,1
+B0017,50,36-50,Female,West,Divorced,Bachelor,Full-time,74595,628,5,5,213,No,SMS,0
+B0018,60,51+,Female,North,Single,College,Part-time,481,729,2,3,325,Yes,Phone,1
+B0019,49,36-50,Female,East,Divorced,College,Student,15251,637,1,3,295,Yes,Email,0
+B0020,65,51+,Male,East,Single,College,Full-time,46907,637,2,5,123,Yes,Phone,1
+B0021,60,51+,Female,East,Married,College,Full-time,33459,634,4,7,232,No,Email,0
+B0022,58,51+,Female,South,Married,Bachelor,Full-time,49505,644,3,7,358,Yes,SMS,0
+B0023,72,51+,Female,North,Divorced,Master,Self-employed,18190,745,5,6,89,Yes,Phone,0
+B0024,25,18-25,Female,East,Married,Bachelor,Retired,31083,620,5,5,24,Yes,Email,1
+B0025,65,51+,Male,North,Married,High School,Full-time,39716,714,2,5,304,No,Email,0
+B0026,69,51+,Female,East,Divorced,College,Part-time,49336,683,4,5,53,No,Phone,0
+B0027,29,26-35,Female,West,Married,High School,Full-time,7053,672,4,2,79,No,Email,0
+B0028,23,18-25,Male,South,Married,Bachelor,Full-time,9959,694,3,7,31,Yes,SMS,0
+B0029,30,26-35,Male,East,Divorced,College,Part-time,36626,627,4,6,172,No,Email,0
+B0030,66,51+,Female,North,Divorced,Bachelor,Part-time,23383,816,1,9,72,No,Phone,0
+B0031,49,36-50,Female,East,Divorced,High School,Full-time,51949,595,5,7,20,No,SMS,1
+B0032,42,36-50,Female,West,Married,High School,Student,39081,777,2,3,107,Yes,Phone,1
+B0033,23,18-25,Female,North,Married,College,Full-time,10939,666,1,9,39,No,SMS,0
+B0034,30,26-35,Female,North,Married,High School,Full-time,58648,708,4,2,206,No,Phone,1
+B0035,43,36-50,Male,South,Divorced,College,Full-time,37456,603,1,6,210,No,SMS,0
+B0036,72,51+,Male,South,Divorced,College,Part-time,9445,639,4,7,341,No,Phone,0
+B0037,55,51+,Female,North,Single,Master,Full-time,1033,699,3,3,57,No,Phone,1
+B0038,43,36-50,Male,West,Married,Master,Full-time,60464,718,4,9,286,Yes,Email,1
+B0039,66,51+,Female,East,Single,Master,Full-time,71703,822,2,9,192,Yes,Email,0
+B0040,40,36-50,Female,West,Married,Bachelor,Part-time,63368,710,4,3,238,Yes,Phone,0
+B0041,20,18-25,Male,North,Married,Bachelor,Full-time,48295,737,5,4,300,Yes,Phone,1
+B0042,32,26-35,Male,South,Single,High School,Self-employed,12147,755,3,6,219,Yes,Phone,0
+B0043,43,36-50,Male,East,Married,High School,Part-time,59099,696,4,6,143,Yes,Phone,1
+B0044,30,26-35,Female,East,Married,High School,Self-employed,54310,655,4,1,227,No,Phone,0
+B0045,50,36-50,Male,East,Divorced,Bachelor,Self-employed,44804,670,4,9,91,No,Phone,0
+B0046,23,18-25,Male,East,Married,Master,Part-time,,723,3,7,43,Yes,SMS,1
+B0047,69,51+,Female,West,Single,High School,Full-time,67774,720,5,1,143,No,Phone,1
+B0048,27,26-35,Female,West,Married,High School,Full-time,64991,775,2,8,189,Yes,Phone,1
+B0049,28,26-35,Male,South,Married,High School,Part-time,40297,663,1,7,5,No,Phone,0
+B0050,55,51+,Female,West,Single,Bachelor,Self-employed,67726,576,5,8,297,Yes,SMS,1
+B0051,65,51+,Female,South,Married,Master,Full-time,46886,659,4,1,323,Yes,SMS,1
+B0052,35,26-35,Male,West,Married,Master,Full-time,40654,647,1,2,142,No,Phone,0
+B0053,44,36-50,Male,West,Divorced,High School,Full-time,51705,813,4,2,52,Yes,Email,1
+B0054,44,36-50,Male,North,Married,High School,Full-time,14532,665,5,7,172,Yes,Phone,1
+B0055,38,36-50,Female,West,Single,College,Full-time,15017,668,2,5,243,Yes,Phone,0
+B0056,50,36-50,Male,West,Divorced,College,Student,5825,759,3,9,277,Yes,SMS,0
+B0057,61,51+,Male,East,Divorced,Bachelor,Student,21066,633,1,4,66,No,Email,1
+B0058,74,51+,Male,South,Married,Bachelor,Self-employed,41572,600,5,8,62,Yes,Email,0
+B0059,65,51+,Female,West,Divorced,Bachelor,Retired,19128,616,1,3,117,No,SMS,0
+B0060,45,36-50,Male,West,Single,College,Full-time,8657,825,5,4,328,No,SMS,0
+B0061,55,51+,Female,South,Divorced,Master,Full-time,9878,639,3,7,43,Yes,Phone,1
+B0062,35,26-35,Female,North,Single,College,Full-time,10995,699,5,9,60,No,SMS,0
+B0063,27,26-35,Male,North,Divorced,Bachelor,Part-time,53615,642,2,2,278,Yes,SMS,1
+B0064,47,36-50,Female,West,Divorced,College,Full-time,33560,684,2,6,342,Yes,Phone,0
+B0065,23,18-25,Female,North,Single,Master,Student,54432,623,3,3,187,Yes,Phone,1
+B0066,18,18-25,Female,West,Divorced,Master,Student,31656,750,2,2,197,No,Email,0
+B0067,35,26-35,Female,West,Married,High School,Self-employed,9101,624,1,2,191,No,Phone,0
+B0068,69,51+,Male,West,Single,High School,Part-time,42437,690,4,4,203,Yes,SMS,1
+B0069,29,26-35,Male,West,Divorced,Bachelor,Full-time,18028,735,3,1,125,Yes,SMS,0
+B0070,27,26-35,Female,North,Single,Bachelor,Retired,12092,714,1,6,267,Yes,Email,0
+B0071,67,51+,Male,East,Married,High School,Part-time,38374,705,2,7,235,Yes,Phone,0
+B0072,28,26-35,Male,West,Married,High School,Full-time,73328,600,3,6,251,Yes,Phone,0
+B0073,37,36-50,Female,East,Divorced,College,Full-time,39579,749,3,5,248,No,SMS,1
+B0074,65,51+,Female,South,Single,Bachelor,Retired,65767,701,3,7,315,No,SMS,0
+B0075,51,51+,Female,North,Single,Bachelor,Part-time,63087,654,5,9,93,No,Email,1
+B0076,68,51+,Female,West,Single,Master,Self-employed,55719,670,4,3,138,No,SMS,0
+B0077,46,36-50,Male,East,Divorced,High School,Self-employed,47551,608,5,3,365,Yes,SMS,1
+B0078,37,36-50,Male,North,Single,College,Full-time,6743,676,2,2,13,Yes,SMS,0
+B0079,42,36-50,Female,South,Married,Master,Full-time,42513,681,1,5,73,Yes,SMS,0
+B0080,69,51+,Male,West,Single,College,Self-employed,74892,735,2,4,297,No,SMS,0
+B0081,52,51+,Male,North,Divorced,College,Student,12701,746,1,1,161,Yes,Phone,0
+B0082,66,51+,Male,West,Married,College,Full-time,12400,669,2,4,69,No,Email,1
+B0083,59,51+,Female,North,Single,Master,Part-time,42026,667,2,2,9,No,Email,0
+B0084,61,51+,Female,West,Single,College,Full-time,18972,696,5,4,176,Yes,SMS,1
+B0085,25,18-25,Female,North,Single,College,Self-employed,5371,716,1,7,119,No,Phone,0
+B0086,55,51+,Male,South,Single,Master,Student,4672,711,4,4,320,No,SMS,0
+B0087,68,51+,Female,East,Married,College,Full-time,72448,603,5,3,231,No,Email,0
+B0088,23,18-25,Female,North,Divorced,High School,Retired,4267,663,5,5,361,No,Phone,0
+B0089,18,18-25,Male,South,Married,College,Student,58307,666,5,5,180,Yes,SMS,1
+B0090,22,18-25,Male,North,Married,High School,Retired,15771,637,4,4,346,Yes,SMS,0
+B0091,41,36-50,Female,West,Divorced,College,Self-employed,41880,666,3,8,63,No,Email,0
+B0092,57,51+,Male,South,Divorced,Bachelor,Self-employed,,648,2,3,92,No,Phone,0
+B0093,45,36-50,Female,North,Single,College,Full-time,34738,669,4,1,267,No,SMS,0
+B0094,71,51+,Female,South,Single,Bachelor,Full-time,28757,729,3,1,248,No,SMS,1
+B0095,44,36-50,Male,North,Married,High School,Full-time,14525,694,1,6,108,No,Email,0
+B0096,19,18-25,Male,West,Divorced,College,Full-time,,709,5,1,281,Yes,Phone,0
+B0097,33,26-35,Male,North,Divorced,College,Retired,4818,642,4,2,332,Yes,Phone,0
+B0098,55,51+,Male,West,Single,College,Self-employed,35100,732,2,3,348,Yes,Email,1
+B0099,29,26-35,Female,East,Divorced,High School,Part-time,70424,726,2,2,324,Yes,Email,0
+B0100,74,51+,Female,East,Married,College,Full-time,15759,722,3,6,104,No,SMS,0
+B0101,55,51+,Female,South,Divorced,Bachelor,Self-employed,19168,674,5,6,43,No,SMS,0
+B0102,19,18-25,Male,West,Married,Master,Part-time,42691,675,3,1,31,Yes,SMS,0
+B0103,18,18-25,Female,South,Married,Master,Self-employed,42134,687,1,2,295,No,Email,0
+B0104,60,51+,Male,West,Single,Master,Full-time,34575,801,4,3,251,Yes,Email,1
+B0105,30,26-35,Male,North,Married,Master,Retired,,696,2,8,122,Yes,Email,0
+B0106,56,51+,Female,East,Divorced,High School,Part-time,73896,712,4,5,277,No,SMS,0
+B0107,19,18-25,Male,East,Single,High School,Full-time,35893,739,3,6,235,Yes,Phone,0
+B0108,61,51+,Male,West,Divorced,Bachelor,Full-time,62316,700,2,8,315,No,SMS,0
+B0109,56,51+,Female,North,Single,Bachelor,Full-time,7487,749,5,5,341,No,Phone,0
+B0110,33,26-35,Male,East,Married,College,Retired,38059,697,3,7,262,Yes,Email,0
+B0111,62,51+,Female,East,Married,Bachelor,Retired,39293,609,4,3,76,Yes,SMS,1
+B0112,59,51+,Female,West,Married,College,Full-time,41915,773,1,4,289,No,Email,0
+B0113,52,51+,Male,East,Married,Bachelor,Part-time,62015,714,3,1,338,No,Email,0
+B0114,43,36-50,Male,West,Single,Master,Part-time,48534,702,1,8,79,Yes,Phone,0
+B0115,50,36-50,Male,West,Single,College,Full-time,59302,729,3,9,168,Yes,SMS,0
+B0116,44,36-50,Male,North,Married,Master,Retired,59501,766,3,6,87,No,SMS,0
+B0117,24,18-25,Female,North,Single,High School,Full-time,58453,676,3,3,23,Yes,SMS,0
+B0118,39,36-50,Male,South,Married,College,Full-time,55445,829,5,2,351,No,SMS,0
+B0119,24,18-25,Male,North,Divorced,Master,Student,51640,674,4,2,193,No,Email,1
+B0120,49,36-50,Male,South,Single,College,Full-time,74682,554,5,9,45,Yes,SMS,1
+B0121,59,51+,Male,West,Divorced,College,Part-time,25446,751,2,3,168,No,SMS,0
+B0122,48,36-50,Female,West,Married,High School,Part-time,2054,679,2,2,291,No,SMS,0
+B0123,44,36-50,Male,East,Married,Bachelor,Student,,545,1,7,256,No,Phone,0
+B0124,55,51+,Male,North,Single,Bachelor,Retired,5969,670,3,3,9,No,Email,1
+B0125,56,51+,Male,West,Married,College,Full-time,47517,785,3,6,264,No,Phone,0
+B0126,34,26-35,Male,North,Divorced,High School,Student,17048,704,1,6,60,Yes,SMS,0
+B0127,32,26-35,Female,West,Single,High School,Self-employed,1722,746,2,9,237,Yes,Email,0
+B0128,26,26-35,Female,South,Married,High School,Full-time,34498,556,2,5,213,No,Email,0
+B0129,58,51+,Female,East,Single,Master,Part-time,25923,655,1,4,309,Yes,Email,0
+B0130,26,26-35,Male,South,Single,College,Full-time,63020,646,4,8,104,No,Email,0
+B0131,29,26-35,Male,North,Married,College,Full-time,63666,761,2,5,269,No,Email,0
+B0132,28,26-35,Female,East,Divorced,Bachelor,Part-time,68108,737,3,6,162,No,SMS,0
+B0133,34,26-35,Male,South,Single,Bachelor,Self-employed,28240,583,2,6,258,Yes,Email,0
+B0134,20,18-25,Male,East,Married,High School,Retired,71637,705,3,8,348,No,Email,0
+B0135,36,36-50,Male,West,Married,High School,Part-time,-926,696,4,2,203,No,Email,1
+B0136,47,36-50,Female,West,Divorced,College,Full-time,40145,705,2,3,302,Yes,Email,1
+B0137,75,51+,Male,West,Divorced,College,Full-time,16057,645,4,3,107,No,Email,0
+B0138,54,51+,Male,South,Single,College,Full-time,55363,636,3,6,232,Yes,Email,0
+B0139,74,51+,Female,East,Married,High School,Full-time,47460,588,3,3,138,No,Phone,1
+B0140,25,18-25,Female,North,Divorced,College,Part-time,53639,676,4,4,122,Yes,Email,1
+B0141,72,51+,Male,North,Divorced,High School,Full-time,33619,619,5,4,262,No,Email,0
+B0142,31,26-35,Female,South,Divorced,Master,Student,67118,634,3,5,341,Yes,Phone,0
+B0143,19,18-25,Female,North,Married,High School,Full-time,33712,627,4,6,63,Yes,SMS,1
+B0144,58,51+,Male,East,Divorced,Master,Part-time,57161,724,4,9,18,Yes,Email,1
+B0145,20,18-25,Female,West,Married,College,Full-time,,694,5,9,207,No,SMS,0
+B0146,67,51+,Female,West,Divorced,Bachelor,Self-employed,63629,682,1,4,278,No,Phone,0
+B0147,60,51+,Male,South,Divorced,Master,Full-time,16889,781,5,8,277,No,Phone,0
+B0148,24,18-25,Female,South,Single,Bachelor,Full-time,-680,814,3,1,52,Yes,Email,1
+B0149,18,18-25,Female,North,Married,College,Retired,66646,587,4,4,240,Yes,Email,1
+B0150,29,26-35,Female,South,Divorced,Bachelor,Self-employed,17536,637,5,4,325,No,Phone,0
+B0151,39,36-50,Male,North,Divorced,High School,Full-time,9789,821,4,4,60,Yes,Email,1
+B0152,34,26-35,Female,West,Married,College,Full-time,8320,673,4,3,153,No,Email,0
+B0153,73,51+,Male,East,Married,High School,Student,7480,691,4,2,32,No,Phone,0
+B0154,19,18-25,Female,East,Married,High School,Full-time,25802,694,1,4,133,No,Phone,0
+B0155,25,18-25,Female,North,Divorced,Bachelor,Self-employed,42701,671,2,7,119,Yes,Email,0
+B0156,33,26-35,Female,East,Divorced,Bachelor,Full-time,50950,654,4,2,95,No,Email,0
+B0157,42,36-50,Female,West,Married,Master,Full-time,28387,765,4,9,249,No,Email,0
+B0158,19,18-25,Male,South,Married,College,Full-time,43672,658,4,9,158,No,Phone,0
+B0159,38,36-50,Female,East,Divorced,College,Full-time,19162,799,2,4,19,No,Phone,1
+B0160,50,36-50,Female,North,Single,College,Full-time,13957,654,4,4,277,Yes,SMS,1
+B0161,24,18-25,Female,North,Married,Bachelor,Student,28900,713,4,7,38,Yes,Phone,1
+B0162,25,18-25,Female,South,Single,High School,Self-employed,3768,826,4,6,228,Yes,SMS,0
+B0163,46,36-50,Male,West,Married,College,Self-employed,13966,746,3,1,300,Yes,SMS,0
+B0164,23,18-25,Female,West,Divorced,Master,Full-time,46033,691,4,7,151,No,SMS,0
+B0165,44,36-50,Female,East,Divorced,High School,Full-time,38229,620,2,1,340,No,Phone,1
+B0166,22,18-25,Female,South,Single,College,Full-time,59848,590,5,5,169,No,Phone,1
+B0167,33,26-35,Male,North,Divorced,High School,Retired,4234,622,4,2,44,No,Email,1
+B0168,25,18-25,Male,East,Divorced,College,Student,66044,600,2,7,224,Yes,Email,1
+B0169,42,36-50,Male,East,Divorced,High School,Student,47039,633,3,6,25,Yes,SMS,0
+B0170,50,36-50,Male,East,Married,Bachelor,Full-time,17580,646,5,7,135,Yes,Email,1
+B0171,28,26-35,Female,West,Married,High School,Full-time,62834,670,4,9,272,Yes,Phone,0
+B0172,53,51+,Female,North,Divorced,Master,Student,16684,774,5,5,114,No,Phone,1
+B0173,28,26-35,Male,West,Divorced,Bachelor,Full-time,56226,640,2,2,211,No,Phone,1
+B0174,75,51+,Female,West,Married,College,Student,42816,690,2,8,136,No,Phone,0
+B0175,21,18-25,Male,North,Married,Bachelor,Full-time,15662,706,4,1,350,Yes,Email,1
+B0176,23,18-25,Female,South,Single,College,Self-employed,14959,725,1,2,50,No,SMS,0
+B0177,53,51+,Female,East,Single,Bachelor,Full-time,32038,686,1,4,37,Yes,SMS,0
+B0178,73,51+,Female,West,Divorced,High School,Full-time,20722,803,5,4,155,No,SMS,0
+B0179,39,36-50,Male,North,Single,Master,Self-employed,53446,632,1,8,60,Yes,SMS,0
+B0180,23,18-25,Female,South,Married,High School,Full-time,16163,748,4,3,119,No,Phone,1
+B0181,46,36-50,Female,North,Divorced,College,Full-time,43559,588,5,9,37,No,SMS,0
+B0182,32,26-35,Female,West,Single,High School,Full-time,47472,593,3,7,219,Yes,Email,0
+B0183,60,51+,Male,East,Married,College,Full-time,46524,608,2,1,319,Yes,Phone,0
+B0184,49,36-50,Male,North,Single,High School,Full-time,1120,748,4,2,162,No,SMS,0
+B0185,63,51+,Female,West,Single,Bachelor,Full-time,20620,678,1,7,194,No,SMS,0
+B0186,69,51+,Female,North,Divorced,High School,Part-time,1292,672,2,2,249,No,Email,0
+B0187,41,36-50,Female,South,Single,Master,Self-employed,34895,808,3,4,232,No,Phone,1
+B0188,64,51+,Male,North,Single,College,Full-time,3749,704,2,6,48,Yes,SMS,1
+B0189,33,26-35,Female,West,Divorced,College,Full-time,34006,775,3,5,59,Yes,Phone,1
+B0190,69,51+,Male,West,Single,Bachelor,Full-time,16914,731,1,4,62,No,Phone,0
+B0191,41,36-50,Male,West,Single,Bachelor,Part-time,52667,744,2,1,5,No,SMS,0
+B0192,58,51+,Male,South,Single,High School,Student,46674,650,5,2,67,No,Email,0
+B0193,44,36-50,Female,East,Married,Master,Self-employed,35047,650,3,7,139,No,Email,0
+B0194,35,26-35,Male,East,Married,Bachelor,Full-time,48166,553,3,5,248,No,Phone,1
+B0195,27,26-35,Female,East,Married,High School,Part-time,72257,732,5,7,210,Yes,Phone,1
+B0196,46,36-50,Female,South,Married,College,Full-time,3492,746,5,2,63,No,Phone,1
+B0197,27,26-35,Male,South,Divorced,College,Full-time,68572,615,1,5,99,No,SMS,0
+B0198,60,51+,Male,West,Divorced,Bachelor,Full-time,43553,645,5,6,127,Yes,Email,1
+B0199,22,18-25,Male,North,Single,College,Full-time,19855,627,1,9,341,Yes,SMS,0
+B0200,64,51+,Female,West,Divorced,College,Full-time,,643,2,2,212,Yes,Phone,0
+B0201,69,51+,Male,North,Single,High School,Full-time,44162,733,3,2,202,No,SMS,1
+B0202,20,18-25,Female,South,Married,Master,Self-employed,64335,672,2,1,310,No,Email,0
+B0203,75,51+,Male,North,Divorced,Master,Full-time,42809,524,4,5,58,No,Email,1
+B0204,30,26-35,Female,East,Married,Bachelor,Full-time,39132,678,4,6,324,No,SMS,0
+B0205,60,51+,Male,North,Married,Bachelor,Self-employed,56329,683,4,8,18,No,SMS,0
+B0206,65,51+,Female,North,Married,High School,Retired,54448,775,4,2,333,Yes,SMS,0
+B0207,64,51+,Female,East,Married,College,Full-time,2302,595,5,6,230,Yes,Phone,0
+B0208,39,36-50,Male,South,Divorced,High School,Full-time,7968,656,4,7,119,No,SMS,0
+B0209,57,51+,Male,East,Divorced,Bachelor,Full-time,45623,622,3,6,66,Yes,Phone,0
+B0210,69,51+,Female,North,Married,College,Full-time,73638,651,5,3,61,Yes,SMS,1
+B0211,56,51+,Male,South,Married,College,Self-employed,,669,4,7,158,Yes,Phone,1
+B0212,18,18-25,Male,South,Married,Bachelor,Self-employed,71445,618,1,3,53,Yes,SMS,0
+B0213,36,36-50,Female,North,Divorced,High School,Retired,12875,745,2,4,176,No,SMS,0
+B0214,28,26-35,Male,South,Married,High School,Full-time,42356,616,1,1,359,No,Email,0
+B0215,49,36-50,Female,South,Single,Master,Student,35153,758,5,9,339,Yes,SMS,0
+B0216,21,18-25,Male,North,Divorced,College,Part-time,19265,593,4,2,140,Yes,Email,0
+B0217,67,51+,Male,South,Married,Bachelor,Full-time,14774,766,5,4,17,Yes,SMS,1
+B0218,29,26-35,Female,North,Divorced,High School,Full-time,44163,669,4,7,229,No,Email,0
+B0219,34,26-35,Female,East,Divorced,College,Full-time,33163,690,2,6,86,Yes,SMS,0
+B0220,18,18-25,Male,North,Single,College,Full-time,74672,655,5,9,101,No,Phone,0
+B0221,56,51+,Male,East,Divorced,Bachelor,Self-employed,567,599,1,2,2,No,Email,0
+B0222,22,18-25,Female,West,Married,Bachelor,Retired,,749,2,2,103,No,Email,0
+B0223,47,36-50,Male,South,Married,Master,Full-time,20023,662,2,5,197,No,Phone,0
+B0224,31,26-35,Female,North,Married,High School,Full-time,27352,571,2,1,320,No,SMS,0
+B0225,34,26-35,Female,West,Married,Bachelor,Part-time,14070,616,4,2,21,Yes,Phone,1
+B0226,69,51+,Female,South,Single,Bachelor,Full-time,15781,704,5,4,66,Yes,SMS,1
+B0227,19,18-25,Male,South,Divorced,Bachelor,Retired,5207,713,4,2,125,Yes,Phone,0
+B0228,28,26-35,Female,West,Divorced,High School,Full-time,51319,729,4,6,250,Yes,Phone,0
+B0229,39,36-50,Female,North,Married,College,Full-time,38383,568,1,2,67,Yes,Phone,1
+B0230,71,51+,Male,East,Married,Bachelor,Full-time,60024,782,2,5,361,No,SMS,0
+B0231,50,36-50,Female,South,Divorced,College,Self-employed,63846,613,4,6,57,No,Email,0
+B0232,71,51+,Male,South,Single,College,Part-time,41201,709,3,7,288,No,SMS,0
+B0233,57,51+,Male,South,Single,Master,Part-time,32972,626,2,6,99,Yes,Email,1
+B0234,70,51+,Male,North,Divorced,High School,Full-time,18468,805,3,9,283,Yes,Phone,0
+B0235,30,26-35,Male,North,Divorced,College,Part-time,49265,801,5,8,113,Yes,Phone,1
+B0236,54,51+,Male,South,Single,High School,Part-time,6086,724,5,9,343,Yes,Email,0
+B0237,63,51+,Male,West,Divorced,High School,Full-time,4295,802,2,5,154,No,Email,1
+B0238,48,36-50,Female,South,Married,High School,Retired,73607,763,2,3,163,Yes,Phone,0
+B0239,72,51+,Female,North,Divorced,College,Self-employed,37903,567,5,1,128,Yes,SMS,0
+B0240,62,51+,Female,West,Divorced,College,Part-time,23543,669,5,1,301,No,SMS,1
+B0241,28,26-35,Male,North,Single,High School,Full-time,41746,724,5,7,25,Yes,Phone,1
+B0242,19,18-25,Female,North,Divorced,Master,Full-time,13521,688,1,9,289,Yes,SMS,0
+B0243,36,36-50,Male,South,Single,Bachelor,Self-employed,4697,527,1,7,269,No,SMS,0
+B0244,62,51+,Female,South,Single,Bachelor,Full-time,11478,745,2,5,326,Yes,SMS,1
+B0245,73,51+,Male,East,Single,Bachelor,Part-time,65330,630,2,9,196,Yes,Email,0
+B0246,55,51+,Male,North,Single,Bachelor,Part-time,,677,2,9,360,No,SMS,0
+B0247,20,18-25,Female,South,Divorced,College,Retired,69178,685,3,5,97,No,Phone,0
+B0248,61,51+,Male,North,Married,High School,Self-employed,69109,619,3,1,240,Yes,Email,0
+B0249,50,36-50,Female,East,Single,College,Part-time,19195,641,5,6,154,Yes,SMS,0
+B0250,60,51+,Female,West,Single,College,Full-time,31241,508,1,3,94,Yes,SMS,1
+B0251,32,26-35,Female,South,Married,College,Full-time,56844,647,2,9,127,No,Phone,1
+B0252,71,51+,Male,West,Married,Bachelor,Full-time,36218,703,2,4,138,No,SMS,0
+B0253,75,51+,Female,East,Single,College,Self-employed,21823,712,1,9,257,Yes,Email,0
+B0254,34,26-35,Female,East,Single,Bachelor,Part-time,36284,782,4,7,347,No,Email,0
+B0255,54,51+,Female,East,Single,Bachelor,Self-employed,26203,635,1,6,245,Yes,Email,0
+B0256,69,51+,Female,East,Divorced,College,Full-time,56513,717,5,6,68,Yes,SMS,0
+B0257,35,26-35,Female,East,Single,Bachelor,Full-time,2613,593,2,1,140,Yes,Phone,0
+B0258,57,51+,Male,North,Single,Bachelor,Self-employed,41279,666,3,4,181,Yes,SMS,1
+B0259,53,51+,Male,East,Single,College,Full-time,16481,547,3,2,86,Yes,SMS,1
+B0260,34,26-35,Male,East,Divorced,College,Full-time,3419,706,3,3,237,Yes,SMS,0
+B0261,33,26-35,Female,West,Divorced,Bachelor,Part-time,16692,658,3,6,111,Yes,Phone,0
+B0262,68,51+,Female,South,Married,High School,Full-time,61161,685,5,8,208,Yes,Email,0
+B0263,35,26-35,Female,East,Divorced,Master,Student,7071,664,5,6,208,Yes,Email,0
+B0264,63,51+,Female,East,Married,Master,Part-time,4363,654,2,4,279,No,Email,0
+B0265,45,36-50,Male,South,Single,College,Part-time,43933,673,2,1,273,No,Email,0
+B0266,61,51+,Male,East,Single,High School,Self-employed,57809,816,5,4,256,No,Email,1
+B0267,20,18-25,Female,East,Divorced,College,Full-time,15156,563,1,3,249,No,SMS,0
+B0268,33,26-35,Female,West,Married,Bachelor,Retired,37393,756,5,6,155,Yes,Phone,1
+B0269,67,51+,Male,West,Married,College,Student,68088,658,5,9,83,Yes,SMS,0
+B0270,42,36-50,Female,North,Divorced,Master,Retired,6026,737,3,4,42,No,Email,1
+B0271,28,26-35,Female,East,Married,College,Self-employed,12235,555,2,3,94,No,Email,0
+B0272,41,36-50,Female,South,Single,College,Self-employed,52662,644,5,1,148,Yes,SMS,1
+B0273,65,51+,Male,East,Single,Bachelor,Student,,777,3,1,278,No,SMS,0
+B0274,32,26-35,Male,West,Married,High School,Full-time,63323,652,3,4,34,No,Email,1
+B0275,36,36-50,Female,West,Divorced,Master,Retired,41029,742,1,4,137,No,Email,1
+B0276,60,51+,Female,South,Divorced,College,Retired,42130,624,3,9,110,No,Email,0
+B0277,75,51+,Male,East,Divorced,Bachelor,Student,71885,673,4,3,171,Yes,Phone,1
+B0278,39,36-50,Male,North,Single,Bachelor,Self-employed,8018,658,5,7,219,No,SMS,0
+B0279,71,51+,Female,West,Divorced,High School,Full-time,56025,664,3,9,293,Yes,Email,0
+B0280,60,51+,Male,North,Married,High School,Student,931,700,5,2,300,Yes,Phone,0
+B0281,45,36-50,Female,East,Divorced,Bachelor,Part-time,66572,702,2,3,66,No,Email,0
+B0282,36,36-50,Male,South,Single,College,Self-employed,29808,572,1,8,208,Yes,SMS,0
+B0283,51,51+,Female,North,Married,Master,Self-employed,45336,609,1,7,295,Yes,Email,0
+B0284,51,51+,Male,East,Single,Bachelor,Full-time,36135,644,5,3,316,Yes,SMS,0
+B0285,50,36-50,Female,North,Divorced,College,Student,48299,678,5,7,272,Yes,SMS,0
+B0286,69,51+,Male,North,Married,College,Student,22046,602,1,9,65,No,SMS,0
+B0287,55,51+,Female,South,Divorced,College,Full-time,72659,677,2,3,281,No,Email,0
+B0288,65,51+,Female,East,Divorced,Bachelor,Self-employed,14363,697,3,9,157,Yes,SMS,0
+B0289,68,51+,Male,West,Divorced,Bachelor,Part-time,59655,683,2,4,316,Yes,SMS,0
+B0290,33,26-35,Female,North,Divorced,High School,Full-time,41265,717,2,1,256,No,Email,0
+B0291,66,51+,Male,West,Divorced,College,Part-time,3079,604,3,7,213,No,Email,0
+B0292,53,51+,Male,East,Divorced,Bachelor,Full-time,37019,692,3,5,18,Yes,Email,1
+B0293,27,26-35,Female,North,Single,Bachelor,Retired,,693,5,2,286,Yes,Phone,1
+B0294,39,36-50,Male,East,Single,College,Retired,23345,548,4,2,335,No,Phone,0
+B0295,66,51+,Female,West,Married,Bachelor,Retired,56819,840,3,9,336,No,SMS,0
+B0296,58,51+,Male,South,Single,High School,Full-time,65117,637,5,9,193,Yes,SMS,1
+B0297,63,51+,Male,East,Married,College,Part-time,4817,686,2,7,96,Yes,Phone,0
+B0298,19,18-25,Female,West,Married,College,Full-time,35651,646,4,7,53,No,Email,0
+B0299,42,36-50,Male,North,Married,High School,Self-employed,30121,622,3,2,356,No,Email,0
+B0300,25,18-25,Female,North,Divorced,High School,Retired,45136,708,4,6,221,Yes,Phone,0
+B0301,41,36-50,Female,North,Divorced,High School,Retired,34444,612,1,3,322,No,Email,0
+B0302,61,51+,Male,North,Single,College,Self-employed,67231,698,2,8,79,Yes,Email,0
+B0303,39,36-50,Male,South,Divorced,Bachelor,Full-time,61447,653,5,1,113,No,SMS,0
+B0304,42,36-50,Female,West,Divorced,Bachelor,Full-time,,669,5,5,272,No,SMS,0
+B0305,65,51+,Female,South,Single,Bachelor,Self-employed,2742,840,2,5,246,No,Email,0
+B0306,18,18-25,Male,North,Divorced,College,Full-time,60335,638,1,6,68,No,Email,1
+B0307,30,26-35,Male,West,Single,High School,Self-employed,13651,720,1,2,176,No,Phone,0
+B0308,60,51+,Male,North,Single,High School,Retired,35037,663,5,8,76,Yes,SMS,1
+B0309,61,51+,Female,South,Married,High School,Part-time,53943,813,4,4,116,No,SMS,1
+B0310,33,26-35,Male,West,Single,Bachelor,Self-employed,40384,673,5,6,302,Yes,Email,0
+B0311,32,26-35,Male,West,Married,College,Full-time,66591,643,4,4,2,Yes,Email,1
+B0312,71,51+,Male,North,Single,High School,Full-time,8014,694,1,8,312,No,Phone,0
+B0313,18,18-25,Male,East,Married,Master,Retired,441,643,3,9,120,Yes,Phone,0
+B0314,37,36-50,Male,West,Divorced,High School,Self-employed,1968,706,3,7,238,No,Phone,0
+B0315,49,36-50,Male,West,Married,College,Self-employed,69824,547,3,8,66,No,SMS,0
+B0316,38,36-50,Female,South,Married,College,Student,36501,674,2,3,268,Yes,SMS,1
+B0317,74,51+,Female,South,Married,High School,Full-time,5741,786,1,9,192,Yes,Phone,1
+B0318,30,26-35,Male,South,Single,Bachelor,Full-time,70913,627,4,1,147,No,Phone,0
+B0319,35,26-35,Male,East,Divorced,Bachelor,Student,34573,791,4,1,85,Yes,SMS,0
+B0320,52,51+,Male,East,Divorced,Bachelor,Full-time,-555,682,5,2,307,No,Phone,1
+B0321,47,36-50,Female,North,Married,Bachelor,Full-time,56628,622,4,6,109,No,Phone,0
+B0322,55,51+,Female,South,Single,High School,Full-time,37213,603,2,5,3,Yes,Email,1
+B0323,57,51+,Male,West,Divorced,High School,Full-time,26614,723,4,9,250,Yes,SMS,0
+B0324,22,18-25,Female,East,Single,College,Full-time,35421,629,4,3,238,Yes,SMS,0
+B0325,36,36-50,Female,East,Married,College,Part-time,30125,600,4,4,218,No,Email,0
+B0326,32,26-35,Male,North,Married,College,Part-time,,660,4,4,321,No,Email,0
+B0327,61,51+,Female,West,Divorced,Bachelor,Student,-122,669,2,1,287,Yes,Phone,0
+B0328,53,51+,Female,North,Divorced,College,Full-time,64374,644,4,6,106,No,Phone,0
+B0329,37,36-50,Male,East,Married,College,Full-time,56025,590,2,2,187,No,Email,1
+B0330,18,18-25,Male,East,Married,College,Full-time,39843,664,2,7,264,Yes,Email,0
+B0331,46,36-50,Female,East,Divorced,Bachelor,Part-time,14604,707,2,6,98,Yes,Phone,0
+B0332,18,18-25,Male,West,Single,College,Part-time,55770,637,3,9,177,Yes,SMS,0
+B0333,59,51+,Female,South,Single,High School,Part-time,52579,603,4,7,333,Yes,Email,0
+B0334,63,51+,Female,North,Single,Bachelor,Full-time,70613,800,4,4,8,No,SMS,1
+B0335,67,51+,Female,South,Divorced,Bachelor,Full-time,44871,699,5,3,178,Yes,Email,1
+B0336,71,51+,Female,West,Single,Master,Self-employed,13351,799,3,7,335,No,Phone,0
+B0337,22,18-25,Male,West,Married,High School,Full-time,21082,604,3,3,181,No,Email,0
+B0338,21,18-25,Female,North,Single,College,Full-time,73805,769,3,3,209,No,SMS,0
+B0339,40,36-50,Male,South,Married,College,Part-time,13101,734,2,8,215,No,SMS,0
+B0340,25,18-25,Female,North,Divorced,High School,Student,49783,731,3,2,123,No,Email,0
+B0341,19,18-25,Female,East,Divorced,Bachelor,Part-time,,674,4,8,94,No,Phone,0
+B0342,54,51+,Male,North,Single,College,Student,66781,585,5,5,38,Yes,Phone,0
+B0343,67,51+,Male,North,Single,Bachelor,Part-time,21239,682,4,9,113,No,Phone,0
+B0344,39,36-50,Female,South,Married,College,Full-time,51945,772,1,5,155,No,Phone,0
+B0345,69,51+,Male,East,Divorced,High School,Retired,72071,804,1,9,209,No,SMS,0
+B0346,71,51+,Male,East,Single,Bachelor,Part-time,23985,609,5,4,181,Yes,SMS,0
+B0347,21,18-25,Male,East,Married,Master,Retired,9603,696,1,6,171,No,SMS,0
+B0348,75,51+,Female,North,Single,Bachelor,Full-time,52729,534,4,8,238,Yes,Phone,1
+B0349,20,18-25,Male,West,Divorced,Bachelor,Part-time,41952,786,4,5,174,No,Phone,0
+B0350,50,36-50,Female,East,Married,Bachelor,Student,51128,629,5,5,325,Yes,Phone,0
+B0351,29,26-35,Male,East,Single,Bachelor,Full-time,36075,597,1,5,253,No,Email,0
+B0352,18,18-25,Female,South,Single,Bachelor,Full-time,72536,668,2,5,338,No,Phone,0
+B0353,50,36-50,Male,South,Divorced,College,Part-time,41252,731,5,5,259,Yes,SMS,1
+B0354,67,51+,Male,East,Divorced,Bachelor,Full-time,67407,722,3,5,191,Yes,Email,1
+B0355,73,51+,Female,South,Single,High School,Part-time,55984,612,1,4,273,No,SMS,0
+B0356,47,36-50,Female,North,Single,Bachelor,Full-time,11763,596,3,6,132,No,Email,0
+B0357,34,26-35,Male,East,Married,College,Self-employed,46589,566,5,4,192,Yes,Email,1
+B0358,25,18-25,Female,South,Single,Master,Student,28426,747,4,2,206,No,Phone,0
+B0359,31,26-35,Female,South,Married,Master,Part-time,70086,625,5,6,128,Yes,SMS,1
+B0360,24,18-25,Male,South,Divorced,College,Retired,18789,660,4,2,296,No,Phone,0
+B0361,62,51+,Female,West,Married,College,Part-time,23829,502,3,6,102,No,Email,0
+B0362,68,51+,Female,North,Married,Bachelor,Retired,37358,735,5,7,118,Yes,Email,1
+B0363,61,51+,Female,West,Married,College,Retired,38670,710,2,9,32,No,Phone,1
+B0364,45,36-50,Male,East,Divorced,Bachelor,Full-time,71168,651,3,3,271,Yes,Phone,1
+B0365,72,51+,Female,North,Single,Bachelor,Full-time,15345,661,3,9,170,No,Email,0
+B0366,61,51+,Female,West,Divorced,High School,Full-time,996,618,3,5,254,Yes,Email,1
+B0367,56,51+,Male,West,Divorced,Master,Full-time,24216,695,4,8,224,Yes,SMS,0
+B0368,59,51+,Male,North,Married,Master,Full-time,14894,815,4,2,96,No,Email,0
+B0369,71,51+,Female,East,Divorced,High School,Full-time,6259,758,4,3,188,No,Email,1
+B0370,26,26-35,Female,North,Married,College,Part-time,14976,788,4,2,25,No,Phone,1
+B0371,67,51+,Male,North,Single,College,Full-time,70607,627,2,1,231,No,SMS,0
+B0372,31,26-35,Female,North,Married,College,Full-time,12445,804,2,9,325,Yes,SMS,0
+B0373,30,26-35,Male,East,Married,High School,Student,71448,730,2,6,209,Yes,SMS,1
+B0374,59,51+,Male,West,Single,Master,Part-time,42302,669,4,6,98,Yes,SMS,0
+B0375,46,36-50,Male,East,Divorced,High School,Part-time,38644,691,4,3,62,No,Email,1
+B0376,26,26-35,Female,North,Married,Bachelor,Full-time,29442,645,5,6,18,No,Phone,1
+B0377,32,26-35,Male,West,Single,College,Self-employed,33704,629,1,5,49,Yes,Email,1
+B0378,29,26-35,Female,East,Single,College,Full-time,62097,633,3,7,103,No,Phone,0
+B0379,34,26-35,Female,South,Single,College,Part-time,51565,749,5,3,220,No,Email,0
+B0380,63,51+,Female,West,Single,College,Part-time,64021,743,4,8,101,No,Phone,0
+B0381,23,18-25,Male,South,Married,Bachelor,Self-employed,54250,645,2,8,280,No,Email,0
+B0382,23,18-25,Male,East,Single,College,Retired,27893,713,2,5,95,No,Phone,0
+B0383,58,51+,Male,West,Divorced,High School,Student,6305,712,4,4,167,Yes,Phone,1
+B0384,54,51+,Male,East,Divorced,Master,Part-time,52,775,4,4,74,Yes,SMS,0
+B0385,56,51+,Female,North,Single,High School,Full-time,66955,622,5,5,9,Yes,Email,1
+B0386,50,36-50,Male,North,Divorced,High School,Student,70702,681,2,9,115,Yes,SMS,0
+B0387,31,26-35,Male,West,Single,College,Full-time,38300,788,2,8,213,Yes,Email,1
+B0388,62,51+,Male,North,Divorced,Bachelor,Retired,56129,630,3,4,58,No,Email,0
+B0389,75,51+,Female,West,Divorced,Bachelor,Self-employed,71359,684,1,5,295,No,Phone,0
+B0390,65,51+,Female,West,Divorced,High School,Full-time,10163,687,2,4,39,Yes,SMS,1
